@@ -7,6 +7,16 @@ h1{
   font-size: 50px;
   font-weight: 600;
 }
+h2{
+  font-family: 'Kanit', sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+
+}
+body{
+  font-family: 'Kanit', sans-serif;
+
+}
 .irfan{
   color: orange;
 }
@@ -19,6 +29,10 @@ h1{
 img{
   width: 35%;
   margin: 2%;
+}
+.img2{
+  width: 60%;
+
 }
 .hire-button{
   text-decoration: none;
@@ -36,4 +50,16 @@ img{
 }
 p{
   margin-bottom: 40px;
+}
+.dream-section{
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.dream-right{
+  margin: 10%%;
+  text-align: justify;
+  margin: 100px 100px 0px 0px;
+  
+
 }
