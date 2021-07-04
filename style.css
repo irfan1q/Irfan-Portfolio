@@ -20,6 +20,20 @@ img{
   width: 35%;
   margin: 2%;
 }
+.hire-button{
+  text-decoration: none;
+  color:rgb(71, 58, 58);
+  background: linear-gradient(orange, tomato);
+  padding: 10px 40px;
+  margin-top: 30px;
+}
+.top-banner{
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
 .top-banner-left{
   margin: 5%;
+}
+p{
+  margin-bottom: 40px;
 }
